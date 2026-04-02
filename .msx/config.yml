@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Post-Layoff Pivot & Identity Recovery Coaching
+slug: post-layoff-pivot-identity-rec
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: post-layoff-pivot-identity-rec.msx.dev
